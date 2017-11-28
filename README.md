@@ -1,12 +1,13 @@
-# authentication-in-react-apps
+# Authentication in ReactJs App
 
-How to run this app :
+How to run this web app :
 
-1. You can download or clone this repository to your computer. 
-2. Open terminal / CMD, move to your project directory (where you downloaded or cloned the repository)
-3. Run <code>npm start</code>
-4. Open a new terminal window or tab. 
-5. Run <code>npm run bundle</code>
-6. In your browser, open http://localhost:3000
+1. Download or clone this repository into your local computer. 
+2. Open terminal or CMD 
+3. Move to your project directory (<code>cd authentication-in-react-apps</code>)
+4. Run the web app by <code>npm start</code>
+5. Open a new tab on the terminal
+6. Bundle all the packages by <code>npm run bundle</code>
+7. In your browser, open http://localhost:3000
 
-Credits : https://vladimirponomarev.com/blog/authentication-in-react-apps-creating-components
+Credits to : https://vladimirponomarev.com/blog/authentication-in-react-apps-creating-components
