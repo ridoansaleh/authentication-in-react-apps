@@ -2,7 +2,7 @@
 
 How to run this web app :
 
-1. Download or clone this repository into your local computer. 
+1. Download or clone this repository into your local computer
 2. Open terminal or CMD 
 3. Move to your project directory (<code>cd authentication-in-react-apps</code>)
 4. Run the web app by <code>npm start</code>
