@@ -1,6 +1,5 @@
 const path = require('path');
 
-
 module.exports = {
   // the entry file for the bundle
   entry: path.join(__dirname, '/client/src/app.jsx'),
@@ -12,7 +11,6 @@ module.exports = {
   },
 
   module: {
-
     // apply loaders to files that meet given conditions
     loaders: [{
       test: /\.jsx?$/,
